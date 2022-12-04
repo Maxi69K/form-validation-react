@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-### form-validation-react` [Live Demo](https://form-validation-react-maxi.netlify.app)
+### `form-validation-react` [Live Demo](https://form-validation-react-maxi.netlify.app)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
